@@ -1,2 +1,2 @@
 # Loan-Calculator
-An Avalanche and snowball repayment method calculator for federal student loans
+An Avalanche and Snowball repayment method calculator for federal student loans
